@@ -1,2 +1,2 @@
 # dev-portfolio
-🚀 Repositorio de proyectos de desarrollo web: Este repositorio contiene los proyectos que he desarrollado para fortalecer mis habilidades en front-end y desarrollo web. Incluye aplicaciones creadas con JavaScript, TypeScript, React, Vite, Next.js y Tailwind CSS.
+🚀 Repositorio de proyectos de desarrollo web: Este repositorio contiene los proyectos que he desarrollado para fortalecer mis habilidades en front-end y desarrollo web. Incluye aplicaciones creadas con JavaScript, TypeScript, React, Vite, Next.js y Tailwind CSS. Muchos de estos proyectos incluyen una carpeta 'node_modules' que no ha sido incluida en estas por una cuestión de la cantidad de archivos que pueden subirse.
